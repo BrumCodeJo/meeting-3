@@ -1,7 +1,7 @@
-meeting-3
-=========
+Meeting 3: Back Tracking
+========================
 
-The 4th meeting of BrumCodeJo (0-indexing)
+*Back Tracking* will be the 4th meeting of BrumCodeJo (4th due to 0-indexing)
 
 To attend, file a pull request and add your name and other relevant info to this list:
 
