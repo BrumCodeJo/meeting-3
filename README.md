@@ -8,3 +8,6 @@ To attend, file a pull request and add your name and other relevant info to this
  - Jack Wearden 
    - Github: [@NotBobTheBuilder](https://github.com/notbobthebuilder)
    - Twitter: [@jackweirdy](https://twitter.com/jackweirdy)
+ - Christopher Rolfe
+   - Github: [@christopherrolfe198](https://github.com/christopherrolfe198)
+   - Twitter: [@ThatChrisR](https://twitter.com/ThatChrisR)
