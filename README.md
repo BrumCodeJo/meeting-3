@@ -11,3 +11,8 @@ To attend, file a pull request and add your name and other relevant info to this
  - Christopher Rolfe
    - Github: [@christopherrolfe198](https://github.com/christopherrolfe198)
    - Twitter: [@ThatChrisR](https://twitter.com/ThatChrisR)
+ - Dave Evans
+   - Github: [@DaveDev2](https://github.com/DaveDev2)
+   - Twitter: [@DaveDev](https://twitter.com/DaveDev)
+
+
