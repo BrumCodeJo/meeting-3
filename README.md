@@ -14,5 +14,8 @@ To attend, file a pull request and add your name and other relevant info to this
  - Dave Evans
    - Github: [@DaveDev2](https://github.com/DaveDev2)
    - Twitter: [@DaveDev](https://twitter.com/DaveDev)
+ - Barney Colby
+   - Github: [@barneycolby](https://github.com/barneycolby)
+   - Twitter: [@BarneyColby](https://twitter.com/BarneyColby)
 
 
