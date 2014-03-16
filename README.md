@@ -1,6 +1,8 @@
 Meeting 3: Back Tracking
 ========================
 
+March 16, 1PM
+
 *Back Tracking* will be the 4th meeting of BrumCodeJo (4th due to 0-indexing)
 
 To attend, file a pull request and add your name and other relevant info to this list:
