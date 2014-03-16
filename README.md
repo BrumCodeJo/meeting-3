@@ -17,5 +17,8 @@ To attend, file a pull request and add your name and other relevant info to this
  - Barney Colby
    - Github: [@barneycolby](https://github.com/barneycolby)
    - Twitter: [@BarneyColby](https://twitter.com/BarneyColby)
+ - Nick Banford
+   - Github: [@banford](https://github.com/banford)
+   - Twitter: [@banford](https://twitter.com/banford)
 
 
